@@ -8,3 +8,7 @@ click here 👇📌📌
 
 [![UiPathJobTrainings](https://i.ytimg.com/vi/4bTTO_ie58o/hqdefault.jpg)](
 https://www.youtube.com/playlist?list=PLFd2UxUMjZNfUqyCCB_zs0cI-7nEO4T8E)
+
+
+UiPath linq queries asked in interviews
+https://github.com/vajrang-b/UiPathLinq
